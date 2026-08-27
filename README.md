@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishikabisht/DSA-Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishikabisht/DSA-Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/ishikabisht/DSA-Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
