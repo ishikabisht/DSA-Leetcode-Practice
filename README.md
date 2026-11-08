@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishikabisht/DSA-Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishikabisht/DSA-Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishikabisht/DSA-Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/ishikabisht/DSA-Leetcode-Practice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ishikabisht/DSA-Leetcode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishikabisht/DSA-Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishikabisht/DSA-Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
